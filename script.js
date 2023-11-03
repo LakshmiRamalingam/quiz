@@ -6,8 +6,7 @@ const state = {
         value: "computer",
       },
       {
-        
-  
+id: 2345,          
         name: "Biology",
         value: "bio",
       },
